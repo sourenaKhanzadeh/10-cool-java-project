@@ -1,0 +1,10 @@
+
+.root{
+    -fx-background-color: antiquewhite;
+}
+
+#ans{
+    -fx-background-color: #f0aa0a;
+    -fx-text-fill: #ffffff;
+
+}
